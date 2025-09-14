@@ -280,7 +280,7 @@ Row | Step | Description | Completed
 4 | 3-4 | What does `log` do? | Lists all commits within a Git repository
 5 | 4-1 | 2nd Favorite emoji | 🤣
 6 | 4-2 | Link to `commit #2 from Github Desktop` | https://github.com/Makoninio/learn-git-milestones/commit/c66e6355b3128eda7be8824ce5abcd75e705eb47 
-7 | 5-1 | Full path to your working directory |
+7 | 5-1 | Full path to your working directory | /c/Users/basil/documents/github/learn-git-milestones
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
