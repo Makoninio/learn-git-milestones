@@ -282,7 +282,7 @@ Row | Step | Description | Completed
 6 | 4-2 | Link to `commit #2 from Github Desktop` | https://github.com/Makoninio/learn-git-milestones/commit/c66e6355b3128eda7be8824ce5abcd75e705eb47 
 7 | 5-1 | Full path to your working directory | /c/Users/basil/documents/github/learn-git-milestones
 8 | 5-2 | Link to `commit #3 from CLI` | https://github.com/Makoninio/learn-git-milestones/commit/ad9eb0ac0bc5a40061f187f1fa928109b2032083 
-9 | 6-1 | Link to `first-website` github.com repo page |
+9 | 6-1 | Link to `first-website` github.com repo page | https://github.com/Makoninio/first-website 
 10 | 7-1 | Link to `first-website` github.io "project site" |
 
 
